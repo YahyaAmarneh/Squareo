@@ -66,14 +66,6 @@ https://github.com/YahyaAmarneh/Squareo/assets/44685017/d3a4d4af-a0c3-4465-9f91-
 
 ###
 
-<h2 align="left">Scoring and Grading</h2>
-
-###
-
-<p align="left">Your performance in Squareo is evaluated based on two main factors: the number of moves you make and the time it takes to complete the puzzle. Here’s how the grading works:<br><br>• A+: Exceptional performance (fewest moves and shortest time).<br>• A: Excellent performance (slightly more moves and time than A+).<br>• A-: Very good performance.<br>• B+: Good performance.<br>• B: Above average performance.<br>• B-: Average performance.<br>• C+: Below average performance.<br>• C: Poor performance.<br>• C-: Very poor performance. <br>• D: Needs improvement.</p>
-
-###
-
 <h2 align="left">User Interface</h2>
 
 ###
